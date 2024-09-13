@@ -12,10 +12,10 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against ano
 
 ## Screenshots
 
---**Playing Game**
+**Playing Game**
 ![Screenshot 2024-09-13 104555](https://github.com/user-attachments/assets/b97f0699-0b4b-4f82-be31-ceb8445f0001)
 
---**Win or Loss**
+**Win or Loss**
 ![Screenshot 2024-09-13 104607](https://github.com/user-attachments/assets/326caaad-8e40-4113-a9cd-63b23c96678f).
 
 
